@@ -1,0 +1,12 @@
+name: 'WxT Extend Page'
+description: 'Provides customizations / defaults for the page content type.'
+type: module
+core_version_requirement: '^8.8 || ^9'
+package: WxT
+
+# Required modules
+dependencies:
+  - layout_builder_st:layout_builder_st
+  - lightning_page:lightning_page
+  - wxt_core:wxt_core
+  - wxt_ext_layout:wxt_ext_layout

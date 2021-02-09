@@ -6,7 +6,11 @@ files_private/
 
 # Composer files
 composer.lock
-html
+.env
+.gitattributes
+.editorconfig
+.github
+# html
 vendor
 */*/*/vendor
 */*/vendor
